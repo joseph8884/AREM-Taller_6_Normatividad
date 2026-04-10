@@ -1,5 +1,7 @@
 # Caso de la clase: Checklist de Cumplimiento para GobData
 
+Nombres: Héctor Guzmán, Bryam Diaz, Juan Abril
+
 ## Introducción
 GobData es un portal estatal para trámites ciudadanos que procesa datos personales y sensibles (identificación, salud, direcciones, certificados). A continuación se presenta la evaluación por criterio del checklist (resultado del Excel) con la evidencia, explicación del impacto legal/técnico y recomendaciones prácticas.
 
